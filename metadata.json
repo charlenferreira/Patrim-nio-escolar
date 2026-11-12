@@ -2,5 +2,7 @@
   "name": "Cuidar da Escola — Patrimônio Escolar",
   "description": "Página institucional educativa sobre a preservação do patrimônio escolar e cidadania.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }

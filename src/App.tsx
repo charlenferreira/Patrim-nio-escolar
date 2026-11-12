@@ -392,7 +392,7 @@ export default function App() {
       </main>
 
       {/* Rodapé */}
-      <footer className="border-t border-white/45 bg-[#EAE6DF]/45 backdrop-blur-xl">
+      <footer className="border-t border-white/45 bg-white/20 backdrop-blur-xl">
         <div className="mx-auto flex max-w-5xl flex-col items-center justify-between gap-4 px-4 py-8 sm:flex-row sm:px-6 lg:px-8">
           <p className="text-sm font-medium text-stone-900 text-center sm:text-left">
             Preservação do patrimônio escolar | Educação para a vida
